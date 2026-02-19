@@ -140,3 +140,12 @@
 .contact-box button:hover {
     background: #1b5e20;
 }
+
+/* Price Style */
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1b5e20;
+    margin: 8px 0;
+}
